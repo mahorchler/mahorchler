@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Maylin Horchler @mahorchler
 - 👀 I’m interested in data science, programming, and learning foreign languages!
-- 🌱 I’m currently learning C/C++, mySQL, Mandarin and Korean.
+- 🌱 I’m currently in my senior year at Rutgers University pursuing a BS in computer science.
 - 💞️ I’m looking to collaborate on any projects involving data science, or any new and emerging technologies. I welcome any experience that gives me the opportunity to learn!
 - 📫 How to reach me: maylin.horchler@rutgers.edu
