@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Maylin Horchler @mahorchler
-- 👀 I’m interested in data science, programming, and learning foreign languages!
+- 👀 I’m interested in data analytics, programming, and learning foreign languages!
 - 🌱 I recently graduated from Rutgers University with a BS in computer science.
-- 💞️ I’m looking to collaborate on any projects involving data science, or any new and emerging technologies. I welcome any experience that gives me the opportunity to learn!
 - 📫 How to reach me: maylin.horchler023@gmail.com
